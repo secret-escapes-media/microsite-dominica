@@ -1,7 +1,7 @@
 # Site settings
-title: Template
+title: Dominica
 client:
-  name: Client Name
+  name: Discover Dominica
   link: "#client-name"
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
@@ -9,10 +9,10 @@ description: >
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/template" # the subpath of your site, e.g. /blog/
-img:     "/template/_assets/img"
-css:     "/template/_assets/css"
-js:      "/template/_assets/js"
+baseurl: "/dominica" # the subpath of your site, e.g. /blog/
+img:     "/dominica/_assets/img"
+css:     "/dominica/_assets/css"
+js:      "/dominica/_assets/js"
 
 
 # Build settings

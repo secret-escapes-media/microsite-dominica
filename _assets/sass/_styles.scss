@@ -1,1 +1,16 @@
 // general styles for the project that wouldn't be a reuseable component
+
+.offers-banner {
+  position: relative;
+  &__content {
+    position: relative;
+    z-index: 1;
+  }
+  &__overlay {
+    position: absolute;
+    top: 0; left: 0;
+    right: 0; bottom: 0;
+    background-color: rgba($grey-darkest,0.2);
+    z-index: 0;
+  }
+}

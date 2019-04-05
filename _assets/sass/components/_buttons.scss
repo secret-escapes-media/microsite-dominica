@@ -40,4 +40,7 @@
       &:before { border-color: $orange; }
     }
   }
+  &--solid { background-color: $partner;
+    &:hover { background-color: darken($partner,10); }
+  }
 }

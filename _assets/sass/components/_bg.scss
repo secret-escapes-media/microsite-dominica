@@ -2,8 +2,20 @@
 
 .bg {
   &--white { background-color: $white; }
-  &--light { background-color: $grey-lightest; }
-  &--dark  { background-color: $grey-dark; }
+  &--black { background-color: $black; }
+  &--grey-lightest { background-color: $grey-lightest; }
+  &--grey-lighter  { background-color: $grey-lighter; }
+  &--grey-light    { background-color: $grey-light; }
+  &--grey          { background-color: $grey; }
+  &--dark          { background-color: $grey-dark; }
+  &--darker        { background-color: $grey-darker; }
+  &--darkest       { background-color: $grey-darkest; }
+  &--pattern       {
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat;
+    background-position: center;
+  }
+
   &--img   { @include background-attributes; }
   &__fixed {
     position: fixed;
