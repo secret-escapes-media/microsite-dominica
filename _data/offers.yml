@@ -5,7 +5,7 @@
   price: 134
   price-description: per suite per night
   saved: 25
-  expires: 2019/04/23
+  expires: 2019/04/29
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26650/96a439cf_ad90_4c1f_8776_4505da537ed4.jpg
   link: https://www.secretescapes.com/pagua-bay-house-pagua-bay-dominica/sale?utm_source=SE_media&utm_medium=Dominica&utm_campaign=April2019
 
@@ -16,6 +16,17 @@
   price: 81
   price-description: per room per night
   saved: 20
-  expires: 2019/04/23
+  expires: 2019/04/29
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91473/578660d0_11fd_4bf2_bddb_ffd4f40dc095.jpg
   link: https://www.secretescapes.com/hotel-the-champs-portsmouth-dominica/sale?utm_source=SE_media&utm_medium=Dominica&utm_campaign=April2019
+
+- title: Secret Bay
+  id: secret-bay
+  location: Dominica, Caribbean
+  description: Paradise on Earth – a secluded villa with a private pool, at Dominica's only five-star resort
+  price: 499
+  price-description: per villa per night
+  saved: 20
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/51962/b1ac2028_9a63_40ec_8124_6682e75f563f.jpg
+  link: https://www.secretescapes.com/secret-bay-dominica-west-indies-caribbean/sale?utm_source=SE_media&utm_medium=Dominica&utm_campaign=April2019
