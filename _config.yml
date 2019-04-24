@@ -2,17 +2,17 @@
 title: Dominica
 client:
   name: Discover Dominica
-  link: "#client-name"
+  link: "https://discoverdominica.com/en"
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Dominica is an island of outstanding – if not unmatched – natural beauty. The coast defies convention with dramatic outcrops and pebble beaches. Inland you’ll find remarkable natural phenomena, from the Boiling Lake to the Champagne Reef.
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/dominica" # the subpath of your site, e.g. /blog/
-img:     "/dominica/_assets/img"
-css:     "/dominica/_assets/css"
-js:      "/dominica/_assets/js"
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/_archive/2019-04-dominica" # the subpath of your site, e.g. /blog/
+img:     "/_archive/2019-04-dominica/_assets/img"
+css:     "/_archive/2019-04-dominica/_assets/css"
+js:      "/_archive/2019-04-dominica/_assets/js"
 
 
 # Build settings

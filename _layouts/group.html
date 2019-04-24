@@ -9,11 +9,11 @@ layout: default
   {% endif %}
 
   <!-- Children -->
-  <div class="row row--4-4-4">
+  <div class="row row--xl-4-4-4">
   {% assign children = site.html_pages | where: 'group-parent', page.id | sort:'group-order' %}
   {% for child in children %}
     <div class="col">
-      <div class="bg-img bg-img--3-4" style="background-image: url({{site.img}}/content/{{child.id}}/banner.jpg);">
+      <div class="bg-img bg-img--xl-3-4 bg-img--4-3" style="background-image: url({{site.img}}/content/{{child.id}}/banner.jpg);">
         <a href="{{site.baseurl}}{{child.url}}" class="bg-img__link"></a>
         <div class="bg-img__content">
           <h3 class="title text--bolder text--upper title--md">{{child.title}}</h3>

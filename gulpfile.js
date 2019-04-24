@@ -39,7 +39,7 @@ gulp.task('serve', ['build-jekyll'], function() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/dominica': '_site/'
+        '/_archive/2019-04-dominica': '_site/'
       }
     }
   });
